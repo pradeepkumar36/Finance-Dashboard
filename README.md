@@ -1,5 +1,10 @@
 # Finance-Dashboard
 
+### Dashboard :
+
+![Screenshot 2025-05-21 110143](https://github.com/user-attachments/assets/65281165-ede6-4b50-934c-fde6f65fab22)
+
+
 ### Project Objective:
 
 - **Purpose:** To provide an in-depth overview of financial performance by analyzing income, expenses, and savings over a multi-year period.
@@ -49,12 +54,6 @@
 
 3. **Insight Derivation:**
    - Analyzed visual trends and numerical data to uncover actionable insights for financial decision-making
-  
-### Dashboard :
-
-![Screenshot 2025-05-21 110143](https://github.com/user-attachments/assets/65281165-ede6-4b50-934c-fde6f65fab22)
-
-
 
 
 ### Project Insights:-
