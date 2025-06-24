@@ -32,8 +32,6 @@
 5. **Performance Trends:**  
    - Which financial metrics show significant fluctuations and what insights can be drawn for subsequent financial planning?
 
----
-
 ### Process:-
 
 1. **Data Collection & Preparation:**
@@ -51,6 +49,13 @@
 
 3. **Insight Derivation:**
    - Analyzed visual trends and numerical data to uncover actionable insights for financial decision-making
+  
+### Dashboard :
+
+![Screenshot 2025-05-21 110143](https://github.com/user-attachments/assets/65281165-ede6-4b50-934c-fde6f65fab22)
+
+
+
 
 ### Project Insights:-
 
