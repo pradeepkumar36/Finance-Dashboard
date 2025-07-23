@@ -1,10 +1,5 @@
 # Finance-Dashboard
 
-### Dashboard :
-
-![Screenshot 2025-05-21 110143](https://github.com/user-attachments/assets/65281165-ede6-4b50-934c-fde6f65fab22)
-
-
 ### Project Objective:
 
 - **Purpose:** To provide an in-depth overview of financial performance by analyzing income, expenses, and savings over a multi-year period.
@@ -13,6 +8,10 @@
   • Break down savings across different components.  
   • Identify major expense categories.  
   • Track month-over-month percentage changes to deduce trends that inform better financial planning.
+
+### Dashboard :
+
+![Screenshot 2025-05-21 110143](https://github.com/user-attachments/assets/65281165-ede6-4b50-934c-fde6f65fab22)
 
 ### Dataset Used:
 
